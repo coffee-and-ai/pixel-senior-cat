@@ -22,7 +22,7 @@
 
 ## 🚀 Как почитать книгу?
 Вы можете открыть её прямо в браузере по ссылке:
-👉 **[Читать книгу на GitHub Pages](https://github.io](https://coffee-and-ai.github.io/pixel-senior-cat/))**
+👉 **[Читать книгу на GitHub Pages](https://coffee-and-ai.github.io/pixel-senior-cat/)**
 
 Если вы хотите запустить проект локально на компьютере:
 1. Скачайте файлы репозитория.
